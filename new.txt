@@ -1,5 +1,5 @@
-Favorite movie: "Pride and Prejudice";
-favorite TV series: "Sex and the City";
-favorite food: rolls;
-favorite time of year: summer;
-the country I want to visit: Iceland.
+Name: Olga;
+Last name: Loganovskaya;
+age: 34;
+pets: 1;
+salary: >$2000.
