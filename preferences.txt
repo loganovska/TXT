@@ -1,0 +1,6 @@
+Favorite movie: "Pride and Prejudice";
+favorite TV series: "Sex and the City";
+favorite food: rolls;
+favorite time of year: summer;
+the country I want to visit: Iceland.
+
